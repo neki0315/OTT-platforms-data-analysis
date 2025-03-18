@@ -51,7 +51,7 @@ Key Visualizations:
 ✅ Platform Comparison: Number of titles per OTT service.
 
 
-🔧 Tech Stack
+# 🔧 Tech Stack
 
 Python (Pandas, Seaborn, Matplotlib) – Data Cleaning & EDA
 
