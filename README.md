@@ -67,7 +67,7 @@ BeautifulSoup & APIs – Data Scraping (Optional)
 
 ✅ Developed an interactive Tableau dashboard with 5+ visualizations for OTT trends.
 
-📂 Files in This Repository
+# 📂 Files in This Repository
 
 📄 Merged_OTT_Titles.csv – The raw merged dataset.
 
